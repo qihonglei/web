@@ -1,0 +1,339 @@
+*{
+	margin:auto 0 auto 0;
+	font-family: '宋体';
+	padding: 0px;
+	border:none;
+	list-style-type: none;
+}
+
+body{
+		font:12px '宋体';
+		
+		color: #522a06;
+		background-image: url(../images/bodybg.gif);
+		background-size: 2000px 1500px;
+		height: 1150px;
+		width: 1000px;
+		text-align: center;
+		
+		}
+		img{
+		border:0px;}
+		ul{
+			list-style-type: none;
+		}
+		a{
+		text-decoration: none;
+	
+		}
+		a:link{
+			color:#522a06;
+		}	
+		a:hover{
+			text-decoration: underline;
+		}
+		#header{
+			
+		    height:205px;
+			width: 1300px;
+			background-image: url(../images/bg.gif);
+			background-position: top center;
+
+		}
+		#content{
+			
+			width: 1000px;
+			margin-left: 180px;
+			clear:left right; 
+			margin-top: 0px;
+
+			
+		}
+		
+		#banner{
+			width: 1000px;
+			height: 164px;
+			
+			background-position: center;
+	
+			
+			margin-left: 180px; 
+	    }
+	    #banner img{
+	    margin-top: 38px;
+	    margin-left: 25px;
+	   
+	    float: left;
+
+	    }
+		#nav{
+			height: 40px;
+			width: 1300px;
+			
+			background-image: url(../images/nav.jpg);
+		}
+		.nav_body{
+			width: 100px;
+			margin-left: 180px;
+			height: 40px;
+			
+
+		}
+		.nav_content{
+			width: 1000px;
+			height: 40px;
+			
+			font-weight: bolder;
+			color: #fff;
+			clear: left;
+
+
+		}
+		.nav_content a{
+			line-height: 40px;
+			color: #fff;
+			font-weight: bold;
+			
+
+
+		}
+		.nav_content a:hover{
+			text-decoration: underline;
+			color: #f9f603;
+
+
+		}
+		.nav_search{
+			float: right;
+		}
+         
+         .p6{
+         	
+         	width: 44px;
+         	height: 19px;
+         	background-color: #000;
+         	color: #fff;
+         	border:1px solid #fff;
+         	
+         	float: right;
+         	margin-top: 10px;
+         }
+         .p5{
+         	width: 140px;
+         	height: 17px;
+         	background-color: #f8f5ee;
+         	float: left;
+         	margin-top: 12px;
+         	
+         }
+
+
+
+
+
+         .t{
+
+         	height: 40px;
+         	width: 1200px;
+         	margin-left: 250px;
+
+         }
+         .mian{
+         	margin-top: 15px;;
+         	float: left;
+         }
+
+         .t2{
+
+		width:1300px;
+	
+		margin-left: 150px;
+         }
+
+         .left{
+         	margin-left: 100px;
+         	width: 200px;
+         	
+         	
+         	float: left;
+         }
+		.right{
+			width: 700px;
+			
+			
+			float: left;
+			margin-left: 30px;
+		}
+
+		.pei{
+			height: 220px;
+
+			background-image: url(../images/bg.png);
+			border:1px solid #c9baa5;
+
+		}
+
+		.pei ul li{
+			position: relative;
+			bottom: 30px;
+		}
+
+		.b55 p{
+			position: relative;
+			bottom:3px;
+			color: red;
+		}
+
+		.left ul li{
+			line-height: 30px;
+			
+		}
+
+		.zui{
+			margin-top: 20px;
+			height: 180px;
+
+			background-image: url(../images/bg.png);
+			border:1px solid #c9baa5;
+
+		}
+		.zui img{
+			margin-top: 10px;
+
+		}
+		.bao{
+			margin-top: 20px;
+		}
+
+
+		.zhao{
+			background-image: url(../images/listtitle.png);
+			height: 45px;
+			width: 700px;
+			border:1px solid #c9baa5;
+			font-size: 20px;
+			color: red;
+			text-align: left;
+
+		}
+		.zhao p{
+			margin-top: 15px;
+			margin-left: 50px;
+		}
+
+		.ul{
+			margin-top: 15px;
+		}
+
+		.tong ul li{
+			line-height: 30px;
+			list-style-type: disc;
+			text-align: left;
+			font-size: 13px;
+			list-style-position: inside;
+			
+
+		}
+		.tong{
+			float: left;
+		}
+		.ri ul li{
+			line-height: 30px;
+			list-style-type:none;
+			text-align: left;
+			font-size: 13px;
+		}
+		.ri ul{
+			float: right;
+		}
+
+
+
+		.fo{
+			float: left;
+			width: 1000px;
+			margin-left: 600px;
+			margin-top: 20px;
+		
+		}
+
+
+		.fo div{
+			border:1px solid #844004;
+			float:left;
+			width: 30px;
+			height: 20px;
+			margin-left: 5px;
+
+
+		}
+		.fo div a{
+			line-height:20px;
+			color: #844004;
+		}
+		.fo .f4,.f5{
+			float: left;
+			line-height: 20px;
+			margin-left:20px;
+			}
+			.f5{
+				margin-right: 10px;
+				font-weight: bolder;
+			}
+
+
+
+
+
+
+
+
+
+		#footer{
+			margin-top: 20px;
+			width: 1300px;
+			height: 150px;
+			
+			background-image:url(../images/foot.gif);
+		
+			float: left;
+		}
+
+
+		#footer a{
+			line-height: 50px;
+			text-decoration: none;
+			text-align: center;
+			font-weight: bold;
+			float: left;
+
+
+		}
+		.l1{
+			margin-left: 450px;
+			
+			height: 50px;
+			float: left;
+			margin-bottom: 0px;
+
+			
+		}
+		#footer img{
+			height: 1px;
+			margin-left: 50px;
+			
+		}
+		.e1 p{
+			margin-top: 10px;
+			height: 20px;
+			width: 500px;
+			margin-left: 400px;
+			
+			
+		}
+		.e2 p{
+			height: 12px;
+			width: 500px;
+			margin-left: 400px;
+			 margin-top: 0px;
+		}
